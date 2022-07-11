@@ -1,2 +1,0 @@
-# DevSecOps
-Welcome to Github
